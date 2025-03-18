@@ -1,0 +1,52 @@
+1000
+Rascurce de vanturi
+Schimband istoria neamului
+Emily Bronte
+1001
+O viata amanata
+Supravietuirea in Auschwitz
+Dita Kraus
+1002
+Singur pe lume
+Afland adevarul despre origini
+Hector Malot
+1003
+Biblia
+Cartea cea Sfanta
+Dumnezeu
+1004
+Hotul de carti
+Poveste din Auschwitz
+Carmen Oltean
+1005
+Binecuvantari prin incercari
+Viata in comunism
+Elena Marza
+1006
+Bucurestiul interbelic
+Marile vieti interbelice
+Ioana Parvulescu
+1007
+Rem
+Universuri paralele
+Mircea Cartarescu
+1008
+Tom Sawyer
+Copilarie frumoasa
+Hector Malot
+1009
+Crima si pedeapsa
+Un roman clasic despre crima
+Fiodor Dostoievski
+1010
+Amintiri din copilarie
+scolara
+Ion Creanga
+1011
+Ion
+roman
+Liviu Rebreanu
+1012
+Moara cu noroc
+nuvela
+Ioan Slavici

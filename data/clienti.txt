@@ -1,0 +1,11 @@
+11 ; Popescu Ionel ; 5090807330541
+12 ; Ionescu Marcel ; 5090909330444
+13 ; Martinescu Maria ; 6080908330212
+14 ; Popovici Mihai ; 1020202332332
+15 ; Vicovan Andrei ; 1090909332221
+16 ; Porumboiu Iulian ; 1030405332444
+17 ; Cristian Tudor ; 1020304000444
+18 ; Ioana Luiza ; 2090907332432
+1 ; Loghin Bogdan ; 1990708330531
+2 ; Popescu Maria ; 2870912331432
+3 ; Ionescu Mihai ; 1700809341442
